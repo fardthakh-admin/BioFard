@@ -1,0 +1,12 @@
+﻿Name,condition,age,gender
+C4812,control,B,M
+C98,control,A,M
+H4929,treatment,B,M
+H5300,treatment,A,F
+H5493,treatment,B,F
+H5575CN,treatment,A,M
+OA180,control,B,F
+OA4518,control,A,M
+OA5404,control,A,F
+T5301,treatment,A,M
+T5382,control,A,M
